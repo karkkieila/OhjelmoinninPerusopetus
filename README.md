@@ -1,0 +1,2 @@
+# OhjelmonninPerusopetus
+Yhteistyömateriaalia ohjelmoinnin perustopetukseen liittyen
