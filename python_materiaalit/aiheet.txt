@@ -1,0 +1,47 @@
+Pythonin peruskurssilla käydään läpi seuraaavat aiheet:
+
+Viikko 1:
+print-funktio
+laskeminen
+luvut, merkkijonot perusteet
+input-funktio
+konversio int - > str -> int
+muuttuja
+ehdot (if)
+boolean-tyyppi
+
+Viikko 2:
+Tyypin käsite, luvut, merkkijonot 
+lause, lauseke
+Monimutkaisemmat ehdot (else, elif)
+loogiset operaattorit and, or, not
+jakojäännösoperaattori
+while-true -looppi?
+
+Viikko 3:
+Silmukat: while
+break ja continue
+oman yksinkertaisen funktion tekeminen
+
+Viikko 4:
+Lista
+Silmukat: for
+merkki, merkkikoodi
+merkkijono-operaatiot
+merkkijono on immutable
+
+Viikko 5:
+viittaukset
+dict
+Tuple
+
+Viikko 6:
+tiedostojen käsittely
+Poikkeusten käsittely?
+Lisää omista funktioista
+muuttujien näkyvyys, global
+
+Viikko 7:
+satunnaisuus, muut kirjastot (Datetime, fractions)
+Import
+Omat luokat
